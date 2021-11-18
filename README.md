@@ -1,2 +1,0 @@
-# Blog
-Just a blog
